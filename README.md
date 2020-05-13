@@ -11,12 +11,12 @@ The Library is developed in modules that can be divided into:
 ## Dependencies & Requirements
 It follows the list of the requirements to run the code (in brackets the version used during tests):
 
-- Python 3.x (3.7.3)  core
-- Pytorch (1.4.0) model core (structure and computation)
-- DGL (0.4.2) tree representation, computational flow optimization, batching
-- NLTK (3.4.1)  auxiliary data loading functions
-- NumPy (1.16.3)  auxiliary functions
-- tqdm (4.32.1) prettyprint progressbar
+- [Python 3.x](https://www.python.org/) (3.7.3)  core
+- [Pytorch](https://github.com/pytorch/pytorch) (1.4.0) model core (structure and computation)
+- [DGL](https://github.com/dmlc/dgl) (0.4.2) tree representation, computational flow optimization, batching
+- [NLTK](https://github.com/nltk/nltk) (3.4.1)  auxiliary data loading functions
+- [NumPy](https://github.com/numpy/numpy) (1.16.3)  auxiliary functions
+- [tqdm](https://github.com/tqdm/tqdm) (4.32.1) prettyprint progressbar
 
 ## Running example
 
