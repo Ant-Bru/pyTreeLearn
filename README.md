@@ -6,7 +6,7 @@ The Library is developed in modules that can be divided into:
 
 - [Tree Encoders](treeLSTM/)
 - [Tree Decoders](TreeDecoder/)
-- [Tree-to-Tree Transducers](Tree2Tree/)
+- [Tree-to-Tree Transducer](Tree2Tree/)
 
 ## Dependencies & Requirements
 It follows the list of the requirements to run the code (in brackets the version used during tests):
