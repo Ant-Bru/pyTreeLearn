@@ -2,7 +2,7 @@
 Python Deep Learning Library for Tree-Structured Learning based on PyTorch and DGL frameworks.
 
 ## Overview
-The Library is developed in modules that can be divided into:
+The Library is developed in modules that can be divided into categories:
 
 - [Tree Encoders](treeLSTM/)
 - [Tree Decoders](TreeDecoder/)
