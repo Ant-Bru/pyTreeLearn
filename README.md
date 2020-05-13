@@ -1,7 +1,5 @@
 # pyTreeLearn 0.1.0
-Python Deep Learning Library for Tree-Structured Learning.
-
-This library is based on PyTorch and DGL frameworks.
+Python Deep Learning Library for Tree-Structured Learning based on PyTorch and DGL frameworks.
 
 ## Overview
 The Library is developed in modules that can be divided into:
