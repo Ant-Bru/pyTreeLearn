@@ -20,8 +20,8 @@ It follows the list of the requirements to run the code (in brackets the version
 
 ## Running example
 
-- [SST](test/SST/)
-- [SICK](test/SICK/)
-- [INEX](test/INEX/)
+- [SST](tests/SST/)
+- [SICK](tests/SICK/)
+- [INEX](tests/INEX/)
 
 ## ToDo & Updates
