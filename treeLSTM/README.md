@@ -11,6 +11,6 @@ Several types of encoders are provided:
 
 [1] [Improved Semantic Representations FromTree-Structured Long Short-Term Memory Networks](https://www.aclweb.org/anthology/P15-1150.pdf)
 
-[2] pyTreeLearn- Recursive Neural Models forTree Processing in Python (W.I.P.)
+[2] pyTreeLearn- Recursive Neural Models for Tree Processing in Python (W.I.P.)
 
 [3] [Bayesian Tensor Factorisation for Bottom-up Hidden Tree Markov Models](https://arxiv.org/pdf/1905.13528.pdf)
